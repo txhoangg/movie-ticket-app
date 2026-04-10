@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CineBook</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="confirm_password_hint">Xác nhận mật khẩu</string>
+    <string name="full_name_hint">Họ và tên</string>
+    <string name="movies_tab">Phim</string>
+    <string name="my_tickets_tab">Vé của tôi</string>
+    <string name="book_ticket">Đặt vé</string>
+    <string name="confirm_booking">Xác nhận đặt vé</string>
+    <string name="select_seats">Chọn ghế ngồi</string>
+    <string name="screen_label">MÀN HÌNH</string>
+    <string name="total_price">Tổng tiền</string>
+    <string name="no_tickets">Bạn chưa có vé nào</string>
+    <string name="booking_success">Đặt vé thành công!</string>
+    <string name="seat_available">Trống</string>
+    <string name="seat_selected">Đã chọn</string>
+    <string name="seat_booked">Đã đặt</string>
+    <string name="showtimes_title">Lịch chiếu</string>
+    <string name="dont_have_account">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="have_account">Đã có tài khoản? Đăng nhập</string>
+    <string name="notification_channel_name">CineBook Nhắc lịch chiếu</string>
+    <string name="notification_channel_desc">Thông báo nhắc giờ chiếu phim</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C62828</color>
+    <color name="colorPrimaryDark">#8E0000</color>
+    <color name="colorPrimaryLight">#FF5F52</color>
+    <color name="colorAccent">#FF8F00</color>
+    <color name="colorGold">#F5C518</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorSeatAvailable">#388E3C</color>
+    <color name="colorSeatSelected">#C62828</color>
+    <color name="colorSeatBooked">#BDBDBD</color>
+    <color name="colorDivider">#E0E0E0</color>
+    <color name="colorOverlay">#99000000</color>
+    <color name="colorStatusConfirmed">#1B5E20</color>
+    <color name="colorStatusCancelled">#B71C1C</color>
+</resources>
